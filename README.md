@@ -10,10 +10,11 @@
 ### 👨‍💻 About Me
 
 - 🔥 4+ Years of Experience in Software Development  
-- 🌱 Currently exploring **NestJS, Prisma, PostgreSQL, Next.js, GSAP**
-- 💬 Ask me about **MERN Stack & Backend Architecture**
+- 🏗️ Specialized in **MERN Stack & PostgreSQL**
+- 🧩 Strong understanding of **Microservices Architecture**
+- 🚀 Experience in **Production Deployment & Server Management**
 - 📫 Reach me at: **sahil9082811@gmail.com**
-- 🎯 Passionate about building scalable, performant web applications
+- 🎯 Passionate about building scalable, high-performance applications
 
 ---
 
@@ -45,12 +46,8 @@
 </p>
 
 ### 🎬 Animations & UI
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-- ✨ GSAP
-- 🎥 Framer Motion
+- ✨ GSAP  
+- 🎥 Framer Motion  
 
 ---
 
@@ -70,16 +67,16 @@
 
 ---
 
-## 🏆 What I Specialize In
+## 🏆 Core Expertise
 
 ✔ MERN Stack Development  
 ✔ PostgreSQL & Database Design  
-✔ Scalable REST APIs  
-✔ JWT Authentication & Security  
-✔ GSAP & Framer Motion Animations  
+✔ Microservices Architecture  
+✔ REST APIs & JWT Authentication  
 ✔ Production Deployment  
+✔ GSAP & Framer Motion Animations  
 
 ---
 
 ### ⚡ Fun Fact
-I love turning complex problems into clean, scalable solutions.
+I enjoy building scalable systems that are clean, efficient, and production-ready.
